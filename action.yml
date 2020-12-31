@@ -1,0 +1,5 @@
+name: HotLoop Start Time
+description: Sets the start time in the environment
+runs:
+  using: node12
+  main: dist/index.js
